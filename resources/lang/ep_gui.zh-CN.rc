@@ -68,6 +68,7 @@ BEGIN
     IDS_TB_STARTBTNSTYLE        "开始按钮风格"
     IDS_TB_STARTBTNSTYLE_0      "Windows 10 (默认)"
     IDS_TB_STARTBTNSTYLE_1      "Windows 11"
+    IDS_TB_STARTBTNSTYLE_2      "Windows 12 (ExplorerPatcher)"
     IDS_TB_PRIMARYTBALIGN       "主屏任务栏对齐"
     IDS_TB_TBALIGN_0            "屏幕边缘(默认)"
     IDS_TB_TBALIGN_1            "居中"
